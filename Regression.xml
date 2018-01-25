@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite1">
+<test name="Test0001" allow-return-values="true">
+    <classes>
+        <class name="com.SelVer381.Test0001" ></class>  
+    </classes>
+</test>
+
+<test name="Test0002" allow-return-values="true">
+    <classes>
+        <class name="com.SelVer381.Test0002" ></class>  
+    </classes>
+</test>
+
+</suite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite1" duration-ms="21632" started-at="2018-01-13T07:19:46Z" finished-at="2018-01-13T07:20:08Z">
+    <groups>
+    </groups>
+    <test name="Test0001" duration-ms="10" started-at="2018-01-13T07:19:46Z" finished-at="2018-01-13T07:19:46Z">
+    </test> <!-- Test0001 -->
+    <test name="Test0002" duration-ms="21361" started-at="2018-01-13T07:19:47Z" finished-at="2018-01-13T07:20:08Z">
+      <class name="com.SelVer381.Test0002">
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.SelVer381.Test0002@c038203]" name="test02" duration-ms="12564" started-at="2018-01-13T12:49:47Z" finished-at="2018-01-13T12:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:com.SelVer381.Test0002@c038203]" name="test03" duration-ms="8759" started-at="2018-01-13T12:49:59Z" finished-at="2018-01-13T12:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+      </class> <!-- com.SelVer381.Test0002 -->
+    </test> <!-- Test0002 -->
+  </suite> <!-- suite1 -->
+  <suite name="suite1 (0)" duration-ms="16089" started-at="2018-01-13T07:20:08Z" finished-at="2018-01-13T07:20:24Z">
+    <groups>
+    </groups>
+    <test name="Test0001" duration-ms="1" started-at="2018-01-13T07:20:08Z" finished-at="2018-01-13T07:20:08Z">
+    </test> <!-- Test0001 -->
+    <test name="Test0002" duration-ms="16077" started-at="2018-01-13T07:20:08Z" finished-at="2018-01-13T07:20:24Z">
+      <class name="com.SelVer381.Test0002">
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.SelVer381.Test0002@4501b7af]" name="test02" duration-ms="7734" started-at="2018-01-13T12:50:08Z" finished-at="2018-01-13T12:50:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:com.SelVer381.Test0002@4501b7af]" name="test03" duration-ms="8325" started-at="2018-01-13T12:50:16Z" finished-at="2018-01-13T12:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+      </class> <!-- com.SelVer381.Test0002 -->
+    </test> <!-- Test0002 -->
+  </suite> <!-- suite1 (0) -->
+  <suite name="MultipleSuite" duration-ms="0" started-at="2018-01-13T07:20:25Z" finished-at="2018-01-13T07:20:25Z">
+    <groups>
+    </groups>
+  </suite> <!-- MultipleSuite -->
+</testng-results>
