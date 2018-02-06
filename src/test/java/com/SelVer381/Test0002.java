@@ -25,6 +25,7 @@ public class Test0002 {
 	driver.get("http://linkedin.com");
 	driver.manage().window().maximize();
 	driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+	driver.quit();
 	}
 	
 }
